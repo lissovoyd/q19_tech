@@ -1,0 +1,401 @@
+query_id,text
+Q001,I seem to be unable to make any transactions.
+Q002,Problem verifying my account
+Q003,Seems like my top-up has failed
+Q004,Is it possible to edit my personal details on the app?
+Q005,My contactless is non-functional.
+Q006,"Hi , I just came to know I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow."
+Q007,How do I cancel my transfer?
+Q008,Why are all my card payments being declined?
+Q009,"I tried using my card today and it's not working, can you help me?"
+Q010,How can I change my PIN even though I'm out of the country in Austria at the moment?
+Q011,Why is my identity not being verified?
+Q012,I've tried using my contactless in several locations today and it's not working anywhere. It seemed fine before. How do I get it to work again?
+Q013,Why wasn't my bank balance updated?
+Q014,I think the top up failed
+Q015,"A card has been sent to me, how do I track it?"
+Q016,I entered a wrong PIN too many times. How can I fix this?
+Q017,Can you tell me why my transfer is failing and help resolve?
+Q018,The app won't let me log in as myself.
+Q019,My statement shows different transaction times.
+Q020,Can you please advise if there is something wrong with my card? I have had multiple rejections and do not know the reason. Thanks!
+Q021,I think I deserve a refunded on a certain item.
+Q022,What do I have to do to get my PIN unblocked?
+Q023,I have been double charged
+Q024,I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM?
+Q025,I need a refund?
+Q026,I want to return an item.
+Q027,"Hi, I am on vacation in Spain and someone stole my bag with my phone and wallet with cards and everything. Can you block it ASAP and then I want to order a new one also ASAP."
+Q028,How do I know if my top up worked?
+Q029,I've just been married and need to update my name
+Q030,This card payment isn't is recognition.
+Q031,Can I change my PIN at any ATM?
+Q032,My account seems a bit off and getting weird charges.
+Q033,"My top-up failed, WHY?"
+Q034,I topped up but the app denied it
+Q035,I just initiated a transfer but I'd like to cancel it.
+Q036,Can I unblock my pin using the app?
+Q037,I found an unauthorized card payment
+Q038,I tried to top up my account and it didn't work
+Q039,How do I apply for a refund?
+Q040,I have been charged twice
+Q041,please tell me why my top-up failed.
+Q042,Am I allowed to change my PIN anywhere?
+Q043,I haven't received my card.
+Q044,I just moved. How do I give you my new address?
+Q045,Why is it saying I have a pending payment?
+Q046,There is a payment made with my card that I don't recognize at all.
+Q047,Can you help my fix my contactless?
+Q048,I dont see my reciept
+Q049,still waiting on my new card
+Q050,"Hello, I see that I have been charged an extra $1 on my app.  Could you please provide me with a reason for this charge?"
+Q051,Can I change my in at all ATM's?
+Q052,I have an incorrect charge and would like a refund.
+Q053,"My card got blocked, how do I reset?"
+Q054,I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?
+Q055,I lost my card n need a new one.
+Q056,Why is this payment on my app
+Q057,"One of my card payments, I don't recognise the name of the merchant."
+Q058,Can you walk me through how I can edit some of my personal information?
+Q059,How can I fix a problem where contactless isn't working?
+Q060,I made a transfer and am still waiting.
+Q061,I need to update my personal details
+Q062,What is the tracking number for my card that was mailed?
+Q063,I have been charged twice for the same thing!
+Q064,I transferred some money but the receiver can't pick it up for some reason.
+Q065,"I have made 5 attempts to make a very standard survey, yet I can't get it to work. What is the problem? Is there an issue related to your system?"
+Q066,How much time do transfers typically take? I sent money to a friend who needs it urgently. It's been hours and has not gone through.
+Q067,Too many times I entered the incorrect PIN.  How can I get my account unblocked?
+Q068,Can I get some help to get me card activated?
+Q069,I bought some stuff this morning but the payment shows as pending
+Q070,My card won't work.
+Q071,I purchased this item and would like a refund
+Q072,Where can I change my PIN?
+Q073,What should I do if I exceed my PIN tries?
+Q074,Is my new card activated?
+Q075,How do I use contactless pay?
+Q076,"Hi, I'm trying to purchase a flat and I'm needing the first payment for the mortgage to go through on the flat I'm trying to buy. For some reason I keep getting an error.can you assist in making this transfer? What is going on?"
+Q077,What is the dollar that I have pending on my statement there?
+Q078,How do I update the PIN on my account?
+Q079,I need to order a new card as my other one was stolen.
+Q080,Why do I see an extra fee on my statement?
+Q081,I did not do this payment
+Q082,I am being charged a pound out of nowhere. What is this?
+Q083,How long does it take for my id to verify?
+Q084,Tell me how to setup a new PIN.
+Q085,How is my card payment still pending?
+Q086,"I got a transfer fail message, but no explanation of why-- what happened?"
+Q087,I added money but my top-up wasn't processed by the app.
+Q088,How long does it take for me to get my new card?
+Q089,please cancel the transaction
+Q090,I need to freeze my card. There are charges on there that i did not authorize. They've been coming out for a couple of days. Can i get this money back?
+Q091,Is the 1 pound charge going to be reimbursed on my card?
+Q092,My card hasn't arrived yet.
+Q093,"It's been over a month and i still haven't received my goods! I ordered a pencil for crying out loud, it's not that hard to deliver that! I'm done with these people, give me a refund immediately! I'll search for my Japanese exclusive pencil elsewhere!"
+Q094,I would like to get help from someone with activating my card.
+Q095,There has been a charge pending on my account statement that I can't figue out it's for a dollar.
+Q096,I think I was charged double for something I bought - how long should I wait before reporting this?
+Q097,What is the activation process on my new card?
+Q098,"My marital status has change, I got to correct my name to reflect that."
+Q099,Can you tell me if I can track the card you sent me?
+Q100,I need help with understanding why my card is not working.
+Q101,There's a payment with my card that I definitely didn't create. I don't know anyone by that name.
+Q102,The  money I transferred does not show in the balance.
+Q103,"After putting in the wrong PIN too many times, I was blocked. Can you assist me in changing it?"
+Q104,Can someone assist me with activating my card?
+Q105,How long will my payment be pending?
+Q106,Would like to use my card and need to activate it first.  Can you help me do this?
+Q107,How do I go about changing my address?
+Q108,There's a card payment I didn't make
+Q109,How can I get my card to work?
+Q110,A transaction is repeated several times on my account.
+Q111,"My PIN is blocked, what do I do?"
+Q112,My transfer failed when I tried.
+Q113,I made a payment with my card and it hasn't changed. How long do you think this will take?
+Q114,Recipient has not received the money
+Q115,I'm still waiting on my identity verification.
+Q116,I'm quite confused as to what is going on. There is some odd extra pound charge on my statement in the app that's just listed as pending and doesn't go away since a couple days.
+Q117,My friend still hasn't gotten a transaction I made.
+Q118,My card doesn't accept any transaction at all. What's wrong??
+Q119,How do I know if my top up was unsuccessful?
+Q120,Why won't my card accept any transactions?
+Q121,How do I get my card to work?
+Q122,What's the expected wait time to recieve my new card?
+Q123,I believe my top up has failed
+Q124,"I was supposed to receive my new card by now, but it hasn't came in."
+Q125,Where did this 1 euro fee come from?
+Q126,"I've tried many times to make a payment, but it's not going through.  What's wrong?"
+Q127,How can I activate my new card? I didn't recieve any information with it about how to do so.
+Q128,I'm still awaiting for the completion of the transaction.
+Q129,I just realized I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow.
+Q130,What do I do if my card was stolen.
+Q131,The app does not recognize who I am.
+Q132,I need to activate my card.
+Q133,"My card still hasn't arrived after two weeks, now what?"
+Q134,The app says my transfer failed
+Q135,My card was declined at a restaurant today and I don't know what the problem is.
+Q136,Why did my card payment not work?
+Q137,I checked my account today and saw that I was charged an extra pound that I did not spend.
+Q138,My account balance has not updated to reflect my recent transfer.
+Q139,What is needed to activate my card?
+Q140,I did not charge my account for that transaction.  That's an error.
+Q141,I don't understand why my payment was declined. I thought everything was ok.
+Q142,I need this item refunded
+Q143,It is common for an international transfer to take 2 days or longer? I made a transfer from France 2 days ago and I have not seen it yet.
+Q144,I see an unfamiliar payment on my statement.
+Q145,I'm confused. My contactless is suddenly not working anywhere that I try to use it. How do I fix it?
+Q146,I lost my wallet today with all my credit cards. Will you please block the card and send a replacement?
+Q147,My card is lost! What do I do now?
+Q148,My identity wasn't verified
+Q149,I've made a horrible mistake!  I transferred money to the wrong account by accident!  I entered one of the digits wrong.  I need this cancelled immediately please.
+Q150,There is a payment that is not mine.
+Q151,How can I update my personal information after moving?
+Q152,"Um, my top up didn't work"
+Q153,I lost my card
+Q154,I tried to pay contactless at the bus today and it didn't work. Any ideas why?
+Q155,what is required documents for new card process ?
+Q156,I am having trouble activating my card.
+Q157,help my money isnt showing up
+Q158,Will you reinstate my PIN?
+Q159,They is a payment I don't recognize on my statement.
+Q160,Is there any way to cancel a transfer?
+Q161,I was unable to activate my card.
+Q162,Please help me make a transfer. I keep receiving an error and I'm trying to make the initial mortgage payment for a flat I'm buying. What is the deal here?
+Q163,My card declined
+Q164,I've already tried 5 times to complete a transfer that's just standard. What's the deal? Is your system down at this time?
+Q165,How come I got blocked for entering wrong pins?
+Q166,"I tried using my card and it kept getting declined, Why?"
+Q167,A payment is showing twice. Why is that?
+Q168,My card needs to be activated.
+Q169,My card gets rejected when I try to use it
+Q170,My card still hasn't been delivered
+Q171,"I just checked my statement and saw a $1 charge, why is it there?"
+Q172,what is the charges for new card?
+Q173,I have a payment in my statement that is off
+Q174,Why isn't my ID being verified?
+Q175,I want to cancel a transfer right away! Can you help?
+Q176,Need help with a stolen card.
+Q177,I tried to make a payment with my card and it was declined. Why is it pending?
+Q178,"My pins seems to be blocked, can you unblock it please"
+Q179,What is the process to change my PIN?
+Q180,I need to change my card PIN.
+Q181,Changing my PIN
+Q182,how many days processing new card?
+Q183,How can a payment be declined
+Q184,Why hasn't the transaction I did to my friend arrive yet?
+Q185,If I want to select a new PIN what do I do?
+Q186,Help my prove my identity.
+Q187,I left my card at a restaurant and now its missing.
+Q188,My purchases from this morning are showing up as payment pending. Can you tell me why?
+Q189,Can I change my PIN without going to a bank branch?
+Q190,Why won't my transfer go through?
+Q191,Can you please refund my item?
+Q192,There's a payment with my card that I didn't perform. I don't know that name shown.
+Q193,Why was I charged twice for the same transaction?
+Q194,"Hello, I was just went through my recent transaction on my bank account and I just noticed that I was charged twice at a place that ate at this past week. Can I get that second transaction removed from my account?"
+Q195,I sent money to someone but they haven't gotten it yet
+Q196,I can't seem to use my card. Can you help?
+Q197,"I did a payment with my card but seem that didn't work, it's still listed as pending since a while ago. When does this actually go through?"
+Q198,Please check to see if the band transfer I made a while ago from my UK account has safely arrived.
+Q199,I got billed an extra pound!
+Q200,Someone took my card without my permission.
+Q201,"A transaction I did to my friend hasn't arrived yet, why?"
+Q202,Can you help me? I have a duplicate transaction on my account and I don't understand why.
+Q203,I got married and need to change my name.
+Q204,I'm still waiting for my transaction.
+Q205,Help me cancel my transaction
+Q206,I can't see a transfer to my account I made.
+Q207,I haven't yet received money that I transferred
+Q208,"I don't know what's wrong, my contactless stopped working. Tried it in a few different places today and it didn't work in any of them."
+Q209,I moved.  I need to update my details.
+Q210,"Looks like my card payment was duplicated after all. I went to pay at the store earlier, got declined once,second time it works. App still stays pending for one of the payments. Can you remove one of them as it's wrong and clearly was declined?"
+Q211,I believe my top up did not work.
+Q212,What can I do if my card still hasn't arrived after 2 weeks?
+Q213,"I'm really concerned because I only made one transaction, but it's appearing multiple times."
+Q214,I still haven't gotten my new card.  When will it get here?
+Q215,Can you help me with proving my identity?
+Q216,Why is my purchase showing as pending?
+Q217,I was charged for the same thing twice
+Q218,Please explain why my payment was declined? I thought everything was good.
+Q219,My card got lost.
+Q220,"Heyy I tried to top up with my card today but it failed! I just got the couple days before but it has worked last time. What's going on, can you double check please?"
+Q221,"I don't want to buy this car anymore, can I cancel the transaction and get a quick refund back?"
+Q222,What do I do?  My card is broken.
+Q223,The card is non-functional.
+Q224,Card payment didn't go through.
+Q225,"I'm having a problem with a money transfer.  I sent some money to a friend a couple of hours ago, and they haven't received it yet.  Why hasn't it gotten to them? How long do transfers need to go through?"
+Q226,I think something went wrong with my card delivery as I haven't received it yet.
+Q227,I was double charged
+Q228,Would reinstalling the app solve the problem?
+Q229,Why did you charge me extra?
+Q230,Money is not in recipients account.
+Q231,"Hey, I attempted to top up my card today and for some reason it didn't work. When I did it the other way it worked just fine. Could you help me figure out why this is happening please?"
+Q232,What would II do if I wanted to activate my new card
+Q233,I am having problems with my contactless.
+Q234,The app doesn't recognize me.
+Q235,Is it possible for me to track the card is was mailed to me?
+Q236,To many charges on my card how do I go about fixing that?
+Q237,how do i get into my account and edit my details
+Q238,I can't find my card!  What should I do?
+Q239,"Hearing about your verification results from us may take anywhere from 10 minutes to approximately one hour.  If this verification has in fact, failed, double-check to make sure that your images are clear.  Also make sure that your document photos have no blur or glare. They need to be readable.  You must also be 18 years of age or older and be a resident of Switzerland or the European Economic Area to open an account."
+Q240,Why did my transfer not go through?
+Q241,"I already made a transfer and want to cancel it, how do I do that?"
+Q242,"For a week now, I have tried to use my card and it is still not working."
+Q243,My balance doesn't include my latest transfer
+Q244,"The transfer keeps failing , I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, Would you please check the issue ?"
+Q245,The $1.00 has still not been reverted as indicated in the previous email.
+Q246,Reason for my card to decline
+Q247,When will my payment go through?
+Q248,My statement has a payment that I do not recall making
+Q249,When will I get my money? It's been too long.
+Q250,"I am not sure how this will work, but I have not received a product I ordered.  I want a refund, but should I just cancel the payment?"
+Q251,I just got married and need to change my name on the account
+Q252,Can you help me to quickly cancel a transaction I accidentally did to the wrong account?
+Q253,After taking over my card transactions I noticed that was charged twice for a restaurant purchased from earlier this week. Can you please remove one of these transactions from my account since it is not accurate?
+Q254,I really need to know how to change my pin.
+Q255,What steps do I have to go through in order to activate my new card?
+Q256,One of my card payments looks like it's stuck but I have made the payment days ago. How long until the payment will be applied to my account?
+Q257,I made an error in payment yesterday and I need it fixed asap because it's for my rent tomorrow.
+Q258,Why won't you accept my payment? I keep trying with this card and it's not working.
+Q259,Why was my card declined in a shop?
+Q260,I cannot verify my identity
+Q261,What should I do if I think my card was stolen?
+Q262,My card is broken
+Q263,"I can't transfer any money from my account to my friend's account, it keeps rejecting it. Can you tell me why? I have enough funds in my account to transfer."
+Q264,"Hello, can you please inform me about international transfers? I am expecting a transfer I made from France two days ago and would like to know when it will arrive."
+Q265,I think my card is broke?
+Q266,What happens if I forget my PIN?
+Q267,I made a payment and it is showing up twice
+Q268,How do I troubleshoot my contactless?
+Q269,"Everything seems fine with my account, so why did it decline my payment?"
+Q270,"In my statement, there was an extra €1 fee"
+Q271,I do not recognize the card payment.
+Q272,What reasons would a topup fail?
+Q273,I think my transfer failed. What do I do now?
+Q274,"My card payment is just showing up as pending since forever, what's going on with that, it should be going through at some point?"
+Q275,My transaction from earlier needs to be reversed.
+Q276,I made a transfer from France a couple days ago and don't see the transaction yet. How long does an international transfer take?
+Q277,what amount of time does it take for a transfer to reflect and be available
+Q278,How do I troubleshoot when contactless doesn't work?
+Q279,"Can you explain your refund policy, please?"
+Q280,"For you, how long do transfers normally take from a UK account? I completed one just now but nothing appears. I just need to be sure everything is okay."
+Q281,I managed to drunken block my card :(( Help!
+Q282,Why doesn't the person I sent money to see that transfer yet?
+Q283,"Hey I want to get a refund on something I bought, but not sure how to go about it. Can you please just cancel the payment, I have not received the item yet."
+Q284,Why hasn't my payment shown up yet?
+Q285,One of my transactions needs to be canceled.
+Q286,I am not able to prove my identity
+Q287,Why hasn't my money transfer shown up yet?
+Q288,Get an item refund
+Q289,Why can't my transfer complete?
+Q290,"I need to refund my item, can you please help?"
+Q291,I added money through a bank transfer and it is not showing in my balance.
+Q292,I was double charged at a restaurant can you take the second charge off?
+Q293,Why isn't the transfer on my account showing up?
+Q294,At what cash machines can I change my PIN?
+Q295,It didnt work when I tried to pay contactless at the bus today. Why?
+Q296,Why is the payment from my card still pending?
+Q297,I have a payment that hasn't went through yet.
+Q298,Is it possible to cancel a transaction?
+Q299,A transfer has to be cancelled.
+Q300,Why has my payment been declined? I paid by card.
+Q301,"There's a €1 fee on my statement, why?"
+Q302,I noticed an extra pound charge?
+Q303,How can I activate my card so I can start using it?
+Q304,My contactless payments don't work.
+Q305,Do you have info about the card on delivery?
+Q306,"i need help, i lost my card"
+Q307,I have exceeded the number of times I can try my PIN
+Q308,I don't have the means to prove my identity.
+Q309,I transferred some money to my mom 2 days ago and she has not received it. I double checked the information and it looks right. Can you help me?
+Q310,Why is the payment I made still pending?
+Q311,Can you tell me about why the account I have was charged an extra 1$
+Q312,I wanted to use my contactless at the metro today but it didn't accept it!
+Q313,Top-up is not working
+Q314,The transger I tried to make failed.
+Q315,"Hey, I'm buying a flat and I need my mortgage to go though. However, every time I check I get an error message. Is there any way you can help me with this transfer."
+Q316,My top up didn't go through
+Q317,How do I enable contactless pay?
+Q318,I'd like to make some changes to my personal information.
+Q319,Where can I modify my information?
+Q320,"card is lost, please help"
+Q321,I'm not sure how to provide my identity.
+Q322,How do I input a new address?
+Q323,My card got stolen!
+Q324,"No transactions are being accepted, what's wrong with my card?"
+Q325,My card activation attempt failed.
+Q326,My transfer will not go through.
+Q327,It appears I have a fee in my statement.
+Q328,Why is this payment pending?
+Q329,Where did this extra €1 fee on my statement come from?
+Q330,When will my pending payment finish?
+Q331,"I didn't mean to do the transfer, is there any way to cancel it?"
+Q332,When will my card payment be done pending?
+Q333,I need to find out where the card is that I ordered.
+Q334,How long do I have to wait until the transferred money shows up?
+Q335,What is happening?  I have tried to transfer money 5x already.  Is the system down?  This shouldnt be happening as this is a basic transfer.
+Q336,I bought something and want the money refunded can I get some help with that?
+Q337,"My PIN has been blocked, what should I do?"
+Q338,Where can I find how to change my name?
+Q339,I keep trying to use my card to buy some things and you keep declining it. Why? I've tried multiple times to make it go through but it won't.
+Q340,Why has my card been declined?
+Q341,There is a transfer not showing on my account.
+Q342,I really need some help to understand why my transfer keeps failing. I'm trying to send money to a friend. Please help.
+Q343,I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?
+Q344,I'm sure I have enough money so why didn't the store accept my card?
+Q345,My card payment has failed.
+Q346,I was charged twice for the same thing.
+Q347,What do I do to activate?
+Q348,My recipient hasn't received the money
+Q349,I cannot use my card.
+Q350,"If my PIN number is rejected, how do I solve it?"
+Q351,"My card has been stolen. I reported it with the police, but I need to report it with you as well."
+Q352,"I needed to make a payment on my account, but I typed in the incorrect number.  The app won't allow me to cancel this transaction.  I need it cancelled ASAP!!"
+Q353,I need to modify my details.
+Q354,Can you please help me in canceling my order.
+Q355,How is this transfer supposed to work? It's not working for me.
+Q356,Where do I go to unblock my PIN?
+Q357,Can I call to get my card activated?
+Q358,Do you have a return policy?
+Q359,Where do I find PIN for my card?
+Q360,I cannot use my PIN.
+Q361,I need help with a lost card
+Q362,How do I set a new pin?
+Q363,Can I make a contactless payments?
+Q364,"I want a refund, but I haven't received the item yet. Can I cancel it and get my funds back? How do I do that."
+Q365,Why doesn't the app believe I am who I say I am?
+Q366,"I transferred the rent payment for my new place a couple days ago but the landlord says it's not there yet, despite showing up as done on my side. I checked the account number I sent it to and it's definitely correct. Can you please verify if the transaction really went through or not?"
+Q367,Today I was out eating and my card was declined. Why's that?
+Q368,I would like to change my personal details.
+Q369,oh my god I lost my card! what should I do?
+Q370,How do I change my address?
+Q371,How do you fix  my card payment?
+Q372,Why hasn't my recipient received their money?
+Q373,How long will it be to get this new card?
+Q374,"How long does it take for transfers to be approved?  I sent funds to my girlfriend, and she says that she has not seen any approved funds in her account."
+Q375,Balance is not up to date.
+Q376,"I still have not received my new card, I ordered over a week ago."
+Q377,Is going to a bank only way to change my PIN?
+Q378,Why is it failing to top-up?
+Q379,How do I go about changing my PIN?
+Q380,There is a payment on my card that I do not recognize.  I've never seen the name on the transaction before.
+Q381,The app doesn't know it's me.
+Q382,Why is my transfer taking so long. I thought it was supposed to only take 1 day if I made a transfer to someone. Can you wee what went wrong?
+Q383,"I am unable to activate my card, it won't let me."
+Q384,There is a €1 extra fee in my statement
+Q385,If i want to change my pin number can I directly from an ATM?
+Q386,Can I change my details because I moved?
+Q387,Where is my card?
+Q388,I can't get my actual card to work
+Q389,My card needs to be activated asap
+Q390,I am having difficulties to verify my identity.
+Q391,Can you help me process a refund?
+Q392,My transaction is on the wrong account.
+Q393,I am having some difficulty verifying my id.
+Q394,Why was my top-up unsuccessful?
+Q395,"I stupidly initiated a rent payment from the wrong account yesterday. It can't be paid from that account, but it really needs to get paid on time. Am I able to move the payment to the right account?"
+Q396,I accidentally blocked my PIN. How do I reset it?
+Q397,I lost my wallet and all my cards were in it.
+Q398,I need to find out why my pending payment hasn't gone through.
+Q399,Is there a way yo change my PIN?
+Q400,I don't recognize a purchase that was made with my card.

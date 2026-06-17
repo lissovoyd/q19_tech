@@ -1,0 +1,24 @@
+# Environment
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Large binary caches
+outputs/cache/
+outputs/llm_cache/
+
+# JSON outputs (content already in reports)
+outputs/cluster_labels*.json
+outputs/ops_narrative*.json
+
+# Internal / personal docs
+FUSION_STRATEGY.md
+README_personal.md
+Task.docx
+
+# Experiment scripts (not part of submission)
+scripts/

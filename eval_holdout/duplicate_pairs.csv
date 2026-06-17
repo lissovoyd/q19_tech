@@ -1,0 +1,61 @@
+pair_id,query_id_1,query_id_2,difficulty,root_issue
+PAIR-001,Q168,Q389,easy,activate my card
+PAIR-002,Q094,Q104,medium,activate my card
+PAIR-003,Q074,Q347,hard,activate my card
+PAIR-004,Q133,Q212,easy,card arrival
+PAIR-005,Q088,Q373,medium,card arrival
+PAIR-006,Q099,Q124,hard,card arrival
+PAIR-007,Q109,Q388,easy,card not working
+PAIR-008,Q009,Q196,medium,card not working
+PAIR-009,Q001,Q070,hard,card not working
+PAIR-010,Q181,Q379,easy,change pin
+PAIR-011,Q031,Q051,medium,change pin
+PAIR-012,Q024,Q185,hard,change pin
+PAIR-013,Q053,Q396,easy,pin blocked
+PAIR-014,Q016,Q067,medium,pin blocked
+PAIR-015,Q022,Q165,hard,pin blocked
+PAIR-016,Q141,Q218,easy,declined card payment
+PAIR-017,Q126,Q339,medium,declined card payment
+PAIR-018,Q183,Q246,hard,declined card payment
+PAIR-019,Q219,Q323,easy,lost or stolen card
+PAIR-020,Q261,Q369,medium,lost or stolen card
+PAIR-021,Q027,Q320,hard,lost or stolen card
+PAIR-022,Q143,Q276,easy,balance not updated after bank transfer
+PAIR-023,Q293,Q341,medium,balance not updated after bank transfer
+PAIR-024,Q013,Q060,hard,balance not updated after bank transfer
+PAIR-025,Q240,Q326,easy,failed transfer
+PAIR-026,Q112,Q134,medium,failed transfer
+PAIR-027,Q017,Q314,hard,failed transfer
+PAIR-028,Q184,Q201,easy,transfer not received by recipient
+PAIR-029,Q195,Q225,medium,transfer not received by recipient
+PAIR-030,Q048,Q064,hard,transfer not received by recipient
+PAIR-031,Q191,Q290,easy,request refund
+PAIR-032,Q026,Q288,medium,request refund
+PAIR-033,Q021,Q025,hard,request refund
+PAIR-034,Q028,Q119,easy,top up failed
+PAIR-035,Q014,Q033,medium,top up failed
+PAIR-036,Q003,Q272,hard,top up failed
+PAIR-037,Q217,Q346,easy,transaction charged twice
+PAIR-038,Q167,Q267,medium,transaction charged twice
+PAIR-039,Q019,Q023,hard,transaction charged twice
+PAIR-040,Q125,Q329,easy,extra charge on statement
+PAIR-041,Q199,Q302,medium,extra charge on statement
+PAIR-042,Q077,Q229,hard,extra charge on statement
+PAIR-043,Q234,Q381,easy,unable to verify identity
+PAIR-044,Q011,Q174,medium,unable to verify identity
+PAIR-045,Q002,Q018,hard,unable to verify identity
+PAIR-046,Q154,Q295,easy,contactless not working
+PAIR-047,Q304,Q363,medium,contactless not working
+PAIR-048,Q005,Q228,hard,contactless not working
+PAIR-049,Q296,Q310,easy,pending card payment
+PAIR-050,Q105,Q332,medium,pending card payment
+PAIR-051,Q216,Q297,hard,pending card payment
+PAIR-052,Q203,Q251,easy,edit personal details
+PAIR-053,Q322,Q370,medium,edit personal details
+PAIR-054,Q029,Q058,hard,edit personal details
+PAIR-055,Q006,Q129,easy,cancel transfer
+PAIR-056,Q007,Q241,medium,cancel transfer
+PAIR-057,Q035,Q392,hard,cancel transfer
+PAIR-058,Q101,Q192,easy,card payment not recognised
+PAIR-059,Q271,Q380,medium,card payment not recognised
+PAIR-060,Q030,Q140,hard,card payment not recognised
